@@ -6,7 +6,7 @@
 - 🔭 I’m currently pursuing my internship at Virtual University's company
 --->
 
-- 🌱 I’m currently learning **Advanced Web Technologies Like as MERN + NEXT.JS , + SeamLess Animations making Tech Stack**
+- 🌱 I’m currently learning **Advanced Web Technologies Like as MERN + NEXT.JS, + Robust, Scalable & SeamLess Animations making Tech Stack**
 
 <!---
 - 👯 I’m looking to collaborate on **Portfolio website**
@@ -49,11 +49,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=musamueed19&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=musamueed19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musamueed19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+--->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=musamueed19&icon=0&color=1)](https://visitcount.itsvg.in)
---->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
