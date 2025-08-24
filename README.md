@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musa Mueed</h1>
+
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C9B6&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Muhammad+Musa+Mueed;Web+Developer+%26+MERN+Stack+Developer)
+
 <h3 align="center">A passionate Full Stack Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -18,6 +20,7 @@
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/musamueed19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musamueed19" height="30" width="40" /></a>
+  📧 Reach me at: [musamueed.dev@gmail.com](mailto:musamueed.dev@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
